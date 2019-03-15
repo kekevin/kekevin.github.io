@@ -1,4 +1,5 @@
----
+about
+<!-- ---
 layout: page
 title: About
 permalink: /about/
@@ -98,4 +99,4 @@ type: page
 
 ## Comments
 
-{% include comments.html %}
+{% include comments.html %} -->
